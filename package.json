@@ -1,0 +1,10 @@
+{
+  "name": "Open School 4U",
+  "version": "1.0.0",
+  "description": "Simple static HTML/CSS/JS website",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step needed for static site'",
+    "start": "npx serve ."
+  }
+}
