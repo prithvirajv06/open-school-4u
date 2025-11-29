@@ -13,7 +13,7 @@ Your lesson content...
 
 ## 📝 Quiz
 
-```json
+```quiz
 {
   "questions": [
     {
